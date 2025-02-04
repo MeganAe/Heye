@@ -2,14 +2,14 @@
   "PAGE_ACCESS_TOKEN": "EAAceMfAQqg4BOZC31RWHQW0q6ZBVNsUYWMMYD2Jm2CZCwctPWDzNYCdlCOIGcpa7bnAzlq3q22npNH9pD1S3CagnrNj5v6ExdvLagThfLPYnwdOqY4CQlOdzsg0TUqQR5GsQ7ZCnIIZCZCyirz5g9XDaJXnHrMwZCpNb4uo8uSutSQGAyR7mTW4lgGPJrvZAknCoowZDZD",
   "VERIFY_TOKEN": "WEBHOOK",
   "ADMINS": [
-    ""
+    "61551417118451"
   ],
-  "BOTNAME": "BOTNAME",
+  "BOTNAME": "MEGAN",
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
     "ADMIN": "Your Name",
-    "TITLE": "PAGEBOT",
+    "TITLE": "Another-Me",
     "HTML": [
       "#CE2F16",
       "#fe8916",
